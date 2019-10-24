@@ -58,7 +58,8 @@ namespace _7het
             //{
             //    MessageBox.Show("A születési dátum csak szám lehet");
             //}
-
+            
+            
 
         }
 
@@ -93,7 +94,7 @@ namespace _7het
 
 
 
-                    //ferfi faljba irasa
+                    //ferfi faljba irasaa
 
                     if (rbtnFerfi.Checked == true)
                     {
